@@ -2,8 +2,8 @@ source,dst,type,pattern,reason
 http://developer.symbian.org/oss/FCL/sf/app/jrt/,/sf/app/jrt,changeset,3182bd6adebb,bug-3029
 http://developer.symbian.org/oss/FCL/sf/mw/appinstall/,/sf/mw/appinstall,changeset,100b6c869078,bug-2548
 http://developer.symbian.org/oss/FCL/sf/mw/drm/,/sf/mw/drm,changeset,e824080bd119,bug-1993
-http://developer.symbian.org/oss/FCL/sf/mw/uiresources/,/sf/mw/uiresources,changeset,f8aba17c1a8c,bug-26
+http://developer.symbian.org/oss/FCL/sf/mw/uiresources/,/sf/mw/uiresources,changeset,d20751edaa5f,bug-26...
 http://developer.symbian.org/oss/FCL/sf/os/buildtools/,/sf/os/buildtools,changeset,f3b4a10db92c,bug-2049...
 http://developer.symbian.org/oss/FCL/sf/os/deviceplatformrelease/,/sf/os/deviceplatformrelease,changeset,865e95be13c2,config
 http://developer.symbian.org/oss/FCL/sf/os/graphics/,/sf/os/graphics,changeset,f3c3c510a760,OpenVG
-http://developer.symbian.org/oss/FCL/sf/os/textandloc/,/sf/os/textandloc,changeset,f0e315382bca,bug-1543
+http://developer.symbian.org/oss/FCL/sf/os/textandloc/,/sf/os/textandloc,changeset,294f83a8e6de,bug-1543
