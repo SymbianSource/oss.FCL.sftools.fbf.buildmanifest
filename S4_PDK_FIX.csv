@@ -7,4 +7,4 @@ http://developer.symbian.org/oss/FCL/sf/os/buildtools/,/sf/os/buildtools,changes
 http://developer.symbian.org/oss/FCL/sf/os/deviceplatformrelease/,/sf/os/deviceplatformrelease,changeset,865e95be13c2,config
 http://developer.symbian.org/oss/FCL/sf/os/graphics/,/sf/os/graphics,changeset,f3c3c510a760,OpenVG
 http://developer.symbian.org/oss/FCL/sf/os/textandloc/,/sf/os/textandloc,changeset,294f83a8e6de,bug-1543
-http://developer.symbian.org/oss/FCL/sf/mw/hb/,/sf/mw/hb,changeset,S4_PDK_FIX,c348c2fa7251,bug-3264 bug-3265
+http://developer.symbian.org/oss/FCL/sf/mw/hb/,/sf/mw/hb,changeset,c348c2fa7251,bug-3264 bug-3265
