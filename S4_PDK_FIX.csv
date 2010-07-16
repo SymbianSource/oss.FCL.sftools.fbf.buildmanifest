@@ -1,5 +1,5 @@
 source,dst,type,pattern,reason
-http://developer.symbian.org/oss/FCL/sf/app/jrt/,/sf/app/jrt,changeset,3182bd6adebb,bug-3029
+http://developer.symbian.org/oss/FCL/sf/app/jrt/,/sf/app/jrt,changeset,3035d69b481d,bug-3029 bug-3276
 http://developer.symbian.org/oss/FCL/sf/mw/appinstall/,/sf/mw/appinstall,changeset,100b6c869078,bug-2548
 http://developer.symbian.org/oss/FCL/sf/mw/drm/,/sf/mw/drm,changeset,e824080bd119,bug-1993
 http://developer.symbian.org/oss/FCL/sf/mw/uiresources/,/sf/mw/uiresources,changeset,d20751edaa5f,bug-26...
