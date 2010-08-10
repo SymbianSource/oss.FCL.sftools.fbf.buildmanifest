@@ -1,4 +1,5 @@
 source,dst,type,pattern,reason
+http://developer.symbian.org/oss/FCL/sf/app/homescreen/,/sf/app/homescreen,changeset,4ee17755d2a9,bug-3546
 http://developer.symbian.org/oss/FCL/sf/app/jrt/,/sf/app/jrt,changeset,3035d69b481d,bug-3029 bug-3276
 http://developer.symbian.org/oss/FCL/sf/app/organizer/,/sf/app/organizer,changeset,e08ac1a3ba2b,bug-3323
 http://developer.symbian.org/oss/FCL/sf/mw/appinstall/,/sf/mw/appinstall,changeset,100b6c869078,bug-2548
