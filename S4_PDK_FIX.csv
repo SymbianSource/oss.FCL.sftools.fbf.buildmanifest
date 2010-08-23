@@ -5,7 +5,7 @@ http://developer.symbian.org/oss/FCL/sf/mw/appinstall/,/sf/mw/appinstall,changes
 http://developer.symbian.org/oss/FCL/sf/mw/hapticsservices/,/sf/mw/hapticsservices,changeset,9c9c77f57686,bug-3311
 http://developer.symbian.org/oss/FCL/sf/mw/uiresources/,/sf/mw/uiresources,changeset,d20751edaa5f,bug-26 NVGRenderstage
 http://developer.symbian.org/oss/FCL/sf/mw/web/,/sf/mw/web,changeset,a1c10d5ad3d9,bug-3326
-http://developer.symbian.org/oss/FCL/sf/os/buildtools/,/sf/os/buildtools,changeset,f3b4a10db92c,bug-2049...
+http://developer.symbian.org/oss/FCL/sf/os/buildtools/,/sf/os/buildtools,changeset,f3b4a10db92c,bug-2049 etc...
 http://developer.symbian.org/oss/FCL/sf/os/deviceplatformrelease/,/sf/os/deviceplatformrelease,changeset,e7ba2a7c8bd1,config
 http://developer.symbian.org/oss/FCL/sf/os/devicesrv,/sf/os/devicesrv,changeset,dd2df5227700,bug-2620
 http://developer.symbian.org/oss/FCL/sf/os/graphics/,/sf/os/graphics,changeset,ec4d3ac02166,OpenVG bug-3283 bug-3343 bug-3344
