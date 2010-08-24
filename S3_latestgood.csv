@@ -101,7 +101,7 @@ http://developer.symbian.org/oss/MCL/sf/os/boardsupport/,/sf/os/boardsupport,cha
 http://developer.symbian.org/oss/MCL/sf/os/bt/,/sf/os/bt,changeset,1f10b9300be6,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/os/buildtools/,/sf/os/buildtools,changeset,15948b6bf933,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/os/cellularsrv/,/sf/os/cellularsrv,changeset,2ac16fe2d995,layers.sysdef.xml
-http://developer.symbian.org/oss/MCL/sf/os/commsfw/,/sf/os/commsfw,changeset,4c33bd785e50,layers.sysdef.xml
+http://developer.symbian.org/oss/FCL/sf/os/commsfw/,/sf/os/commsfw,changeset,4c33bd785e50,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/os/deviceplatformrelease/,/sf/os/deviceplatformrelease,changeset,bb04e010e4d6,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/os/devicesrv/,/sf/os/devicesrv,changeset,a616a19c9ce0,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/os/graphics/,/sf/os/graphics,changeset,1c608d9c6c51,layers.sysdef.xml
