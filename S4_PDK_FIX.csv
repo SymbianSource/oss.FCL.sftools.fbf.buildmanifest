@@ -8,6 +8,6 @@ http://developer.symbian.org/oss/FCL/sf/mw/web/,/sf/mw/web,changeset,a1c10d5ad3d
 http://developer.symbian.org/oss/FCL/sf/os/buildtools/,/sf/os/buildtools,changeset,f3b4a10db92c,bug-2049 etc...
 http://developer.symbian.org/oss/FCL/sf/os/deviceplatformrelease/,/sf/os/deviceplatformrelease,changeset,e7ba2a7c8bd1,config
 http://developer.symbian.org/oss/FCL/sf/os/devicesrv,/sf/os/devicesrv,changeset,dd2df5227700,bug-2620
-http://developer.symbian.org/oss/FCL/sf/os/graphics/,/sf/os/graphics,changeset,fc94f04c8014,OpenVG bug-3283 bug-3343 bug-3344
+http://developer.symbian.org/oss/FCL/sf/os/graphics/,/sf/os/graphics,changeset,ddd5e47f1936,OpenVG bug-3283 bug-3343 bug-3344
 http://developer.symbian.org/oss/FCL/sf/os/kernelhwsrv/,/sf/os/kernelhwsrv,changeset,ac18961ed598,bug-2742 bug-2149 bug-3357 sbs_rom.pl
 http://developer.symbian.org/oss/FCL/sf/os/textandloc/,/sf/os/textandloc,changeset,23d001107cf3,bug-1543
