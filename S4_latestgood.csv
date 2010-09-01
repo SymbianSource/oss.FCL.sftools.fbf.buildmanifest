@@ -1,4 +1,4 @@
-source,dst,type,pattern,sysdef
+source ,dst,type,pattern,sysdef
 http://developer.symbian.org/oss/FCL/sftools/fbf/utilities/,/utilities,changeset,73890f073898,NON-NOKIA
 http://developer.symbian.org/oss/FCL/sf/adapt/beagleboard/,/sf/adapt/beagleboard,changeset,23f868c54bc5,NON-NOKIA
 http://developer.symbian.org/oss/MCL/sf/adapt/codecs.aricent/,/sf/adapt/codecs.aricent,changeset,bb31fbe78861,NON-NOKIA

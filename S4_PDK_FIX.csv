@@ -1,4 +1,4 @@
-source,dst,type,pattern,reason
+source ,dst,type,pattern,reason
 http://developer.symbian.org/oss/FCL/sf/app/jrt/,/sf/app/jrt,changeset,3035d69b481d,bug-3276
 http://developer.symbian.org/oss/FCL/sf/app/organizer/,/sf/app/organizer,changeset,3e8fd025b75b,bug-3323
 http://developer.symbian.org/oss/FCL/sf/mw/appinstall/,/sf/mw/appinstall,changeset,819e5a99c9bd,bug-2548
