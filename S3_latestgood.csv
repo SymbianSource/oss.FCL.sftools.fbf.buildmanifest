@@ -4,8 +4,8 @@ source,dst,type,pattern,sysdef
 //v800008/Builds01/mercurial_internal/rnd/rndonly/realnetworks/,/rnd/rndonly/realnetworks,changeset,afb66031ac23,
 //v800008/Builds01/mercurial_internal/rnd/rndonly/samsung/,/rnd/rndonly/samsung,changeset,bc65ca6d8d9c,
 //v800008/Builds01/mercurial_internal/rnd/redist/objective_systems/,/rnd/redist/objective_systems,changeset,3308607f8c27,
-http://developer.symbian.org/oss/MCL/sftools/fbf/configs/default,sf-config,70d88996e8cd
-http://developer.symbian.org/oss/MCL/sftools/fbf/projects/platforms,build/config,f1fb73c8c4d5
+http://developer.symbian.org/oss/MCL/sftools/fbf/configs/default,sf-config,changeset,70d88996e8cd,
+http://developer.symbian.org/oss/MCL/sftools/fbf/projects/platforms,build/config,changeset,f1fb73c8c4d5,
 http://developer.symbian.org/oss/FCL/sf/adapt/beagleboard/,/sf/adapt/beagleboard,changeset,23f868c54bc5,layers.sysdef.xml
 http://developer.symbian.org/oss/MCL/sf/adapt/codecs.aricent/,/sf/adapt/codecs.aricent,changeset,bb31fbe78861,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/adapt/qemu/,/sf/adapt/qemu,changeset,d2f9a1d49266,layers.sysdef.xml
