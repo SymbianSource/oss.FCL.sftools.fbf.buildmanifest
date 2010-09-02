@@ -11,3 +11,4 @@ http://developer.symbian.org/oss/FCL/sf/os/devicesrv,/sf/os/devicesrv,changeset,
 http://developer.symbian.org/oss/FCL/sf/os/graphics/,/sf/os/graphics,changeset,ddd5e47f1936,OpenVG bug-3283 bug-3343 bug-3344
 http://developer.symbian.org/oss/FCL/sf/os/kernelhwsrv/,/sf/os/kernelhwsrv,changeset,ac18961ed598,bug-2742 bug-2149 bug-3357 sbs_rom.pl
 http://developer.symbian.org/oss/FCL/sf/os/textandloc/,/sf/os/textandloc,changeset,23d001107cf3,bug-1543
+http://developer.symbian.org/oss/FCL/sf/os/usb/,/sf/os/usb,changeset,8d0236b3668f,bug-3648
