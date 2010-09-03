@@ -1,14 +1,13 @@
 source ,dst,type,pattern,reason
-http://developer.symbian.org/oss/FCL/sf/app/jrt/,/sf/app/jrt,changeset,3035d69b481d,bug-3276
-http://developer.symbian.org/oss/FCL/sf/app/organizer/,/sf/app/organizer,changeset,3e8fd025b75b,bug-3323
-http://developer.symbian.org/oss/FCL/sf/mw/appinstall/,/sf/mw/appinstall,changeset,819e5a99c9bd,bug-2548
+http://developer.symbian.org/oss/FCL/sf/app/organizer/,/sf/app/organizer,changeset,cbba965904c0,bug-3323
+http://developer.symbian.org/oss/FCL/sf/mw/appinstall/,/sf/mw/appinstall,changeset,1fec4baee655,bug-2548
 http://developer.symbian.org/oss/FCL/sf/mw/hapticsservices/,/sf/mw/hapticsservices,changeset,9c9c77f57686,bug-3311
-http://developer.symbian.org/oss/FCL/sf/mw/uiresources/,/sf/mw/uiresources,changeset,d20751edaa5f,bug-26 NVGRenderstage
+http://developer.symbian.org/oss/FCL/sf/mw/securitysrv/,/sf/mw/securitysrv,changeset,a08e464d25ca,bug-3653
+http://developer.symbian.org/oss/FCL/sf/mw/uiresources/,/sf/mw/uiresources,changeset,8823d3d6d399,bug-26 NVGRenderstage
 http://developer.symbian.org/oss/FCL/sf/mw/web/,/sf/mw/web,changeset,a1c10d5ad3d9,bug-3326
 http://developer.symbian.org/oss/FCL/sf/os/buildtools/,/sf/os/buildtools,changeset,f3b4a10db92c,bug-2049 etc...
-http://developer.symbian.org/oss/FCL/sf/os/deviceplatformrelease/,/sf/os/deviceplatformrelease,changeset,39a16c3a93fd,config
-http://developer.symbian.org/oss/FCL/sf/os/devicesrv,/sf/os/devicesrv,changeset,dd2df5227700,bug-2620
-http://developer.symbian.org/oss/FCL/sf/os/graphics/,/sf/os/graphics,changeset,ddd5e47f1936,OpenVG bug-3283 bug-3343 bug-3344
-http://developer.symbian.org/oss/FCL/sf/os/kernelhwsrv/,/sf/os/kernelhwsrv,changeset,ac18961ed598,bug-2742 bug-2149 bug-3357 sbs_rom.pl
-http://developer.symbian.org/oss/FCL/sf/os/textandloc/,/sf/os/textandloc,changeset,23d001107cf3,bug-1543
-http://developer.symbian.org/oss/FCL/sf/os/usb/,/sf/os/usb,changeset,8d0236b3668f,bug-3648
+http://developer.symbian.org/oss/FCL/sf/os/deviceplatformrelease/,/sf/os/deviceplatformrelease,changeset,2fe2ba109d6d,config
+http://developer.symbian.org/oss/FCL/sf/os/graphics/,/sf/os/graphics,changeset,3c2818e88c00,OpenVG bug-3283 bug-3343 bug-3344
+http://developer.symbian.org/oss/FCL/sf/os/kernelhwsrv/,/sf/os/kernelhwsrv,changeset,a1a318fd91af,bug-2742 bug-2149 bug-3357 sbs_rom.pl
+http://developer.symbian.org/oss/FCL/sf/os/textandloc/,/sf/os/textandloc,changeset,876d950bc52d,bug-1543
+http://developer.symbian.org/oss/FCL/sf/os/usb/,/sf/os/usb,changeset,149feadf1a1f,bug-3648
