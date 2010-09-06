@@ -3,6 +3,7 @@ http://developer.symbian.org/oss/FCL/sf/app/organizer/,/sf/app/organizer,changes
 http://developer.symbian.org/oss/FCL/sf/mw/appinstall/,/sf/mw/appinstall,changeset,1fec4baee655,bug-2548
 http://developer.symbian.org/oss/FCL/sf/mw/hapticsservices/,/sf/mw/hapticsservices,changeset,9c9c77f57686,bug-3311
 http://developer.symbian.org/oss/FCL/sf/mw/securitysrv/,/sf/mw/securitysrv,changeset,a08e464d25ca,bug-3653
+http://developer.symbian.org/oss/FCL/sf/mw/qtmobility/,/sf/mw/qtmobility,changeset,81ad59d81c0f,bug-3312
 http://developer.symbian.org/oss/FCL/sf/mw/uiresources/,/sf/mw/uiresources,changeset,8823d3d6d399,bug-26 NVGRenderstage
 http://developer.symbian.org/oss/FCL/sf/mw/web/,/sf/mw/web,changeset,a1c10d5ad3d9,bug-3326
 http://developer.symbian.org/oss/FCL/sf/os/buildtools/,/sf/os/buildtools,changeset,f3b4a10db92c,bug-2049 etc...
