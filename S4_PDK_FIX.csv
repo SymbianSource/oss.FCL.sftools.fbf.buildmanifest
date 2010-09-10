@@ -2,7 +2,7 @@ source ,dst,type,pattern,reason
 http://developer.symbian.org/oss/FCL/sf/app/organizer/,/sf/app/organizer,changeset,cbba965904c0,bug-3323
 http://developer.symbian.org/oss/FCL/sf/mw/appinstall/,/sf/mw/appinstall,changeset,1fec4baee655,bug-2548
 http://developer.symbian.org/oss/FCL/sf/mw/hapticsservices/,/sf/mw/hapticsservices,changeset,9c9c77f57686,bug-3311
-http://developer.symbian.org/oss/FCL/sf/mw/imghandling/,/sf/mw/imghandling/,changeset,7af3f0a4f708,bug-3676
+http://developer.symbian.org/oss/FCL/sf/mw/imghandling/,/sf/mw/imghandling/,changeset,292fa3105576,bug-3676
 http://developer.symbian.org/oss/FCL/sf/mw/securitysrv/,/sf/mw/securitysrv,changeset,a08e464d25ca,bug-3653
 http://developer.symbian.org/oss/FCL/sf/mw/qtmobility/,/sf/mw/qtmobility,changeset,81ad59d81c0f,bug-3312
 http://developer.symbian.org/oss/FCL/sf/mw/uiresources/,/sf/mw/uiresources,changeset,8823d3d6d399,bug-26 NVGRenderstage
