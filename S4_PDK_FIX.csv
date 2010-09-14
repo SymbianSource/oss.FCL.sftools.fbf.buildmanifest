@@ -1,5 +1,6 @@
 source ,dst,type,pattern,reason
 http://developer.symbian.org/oss/FCL/sf/app/organizer/,/sf/app/organizer,changeset,cbba965904c0,bug-3323
+http://developer.symbian.org/oss/FCL/sf/app/phone/,/sf/app/phone,changeset,f6dff55cb5cd,bug-3704
 http://developer.symbian.org/oss/FCL/sf/mw/appinstall/,/sf/mw/appinstall,changeset,1fec4baee655,bug-2548
 http://developer.symbian.org/oss/FCL/sf/mw/btservices/,/sf/mw/btservices,changeset,683a4424cb9f,bug-3693
 http://developer.symbian.org/oss/FCL/sf/mw/hapticsservices/,/sf/mw/hapticsservices,changeset,9c9c77f57686,bug-3311
