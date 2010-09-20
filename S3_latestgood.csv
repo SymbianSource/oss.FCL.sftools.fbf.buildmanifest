@@ -1,8 +1,8 @@
 source,dst,type,pattern,sysdef
-http://developer.symbian.org/oss/FCL/sf/adaptation/beagleboard/,/sf/adaptation/beagleboard,changeset,6aa1ef78f9d8,layers.sysdef.xml
-http://developer.symbian.org/oss/MCL/sf/adaptation/codecs.aricent/,/sf/adaptation/codecs.aricent,changeset,bb31fbe78861,layers.sysdef.xml
-http://developer.symbian.org/oss/FCL/sf/adaptation/qemu/,/sf/adaptation/qemu,changeset,78b83e1454a6,layers.sysdef.xml
-http://developer.symbian.org/oss/FCL/sf/adaptation/stubs/,/sf/adaptation/stubs,changeset,a8c9b9457ed6,layers.sysdef.xml
+http://developer.symbian.org/oss/FCL/sf/adapt/beagleboard/,/sf/adapt/beagleboard,changeset,6aa1ef78f9d8,layers.sysdef.xml
+http://developer.symbian.org/oss/MCL/sf/adapt/codecs.aricent/,/sf/adapt/codecs.aricent,changeset,bb31fbe78861,layers.sysdef.xml
+http://developer.symbian.org/oss/FCL/sf/adapt/qemu/,/sf/adapt/qemu,changeset,78b83e1454a6,layers.sysdef.xml
+http://developer.symbian.org/oss/FCL/sf/adapt/stubs/,/sf/adapt/stubs,changeset,a8c9b9457ed6,layers.sysdef.xml
 http://developer.symbian.org/oss/MCL/sf/app/camera/,/sf/app/camera,changeset,bac7acad7cb3,layers.sysdef.xml
 http://developer.symbian.org/oss/MCL/sf/app/commonemail/,/sf/app/commonemail,changeset,3533d4323edc,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/app/conntools/,/sf/app/conntools,changeset,9638716ad12e,layers.sysdef.xml
