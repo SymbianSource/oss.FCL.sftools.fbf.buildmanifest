@@ -16,12 +16,10 @@ http://developer.symbian.org/oss/FCL/sf/app/files/,/sf/app/files,changeset,4167e
 http://developer.symbian.org/oss/FCL/sf/app/firsttimeuse/,/sf/app/firsttimeuse,changeset,0765988f65a1,201025_01
 http://developer.symbian.org/oss/FCL/sf/app/helps/,/sf/app/helps,changeset,9c0410731f74,201035_1
 http://developer.symbian.org/oss/FCL/sf/app/homescreen/,/sf/app/homescreen,changeset,3ac3aaebaee5,201037
-http://developer.symbian.org/oss/FCL/sf/app/homescreentools/,/sf/app/homescreentools,changeset,4b17811f5f53,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/app/internetradio/,/sf/app/internetradio,changeset,065198191975,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/app/jrt/,/sf/app/jrt,changeset,1f0034e370aa,v2.2.15_1
 http://developer.symbian.org/oss/FCL/sf/app/location/,/sf/app/location,changeset,793f76d9ab0c,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/app/messaging/,/sf/app/messaging,changeset,e8a69c93c830,201037_05
-http://developer.symbian.org/oss/FCL/sf/app/mmsharinguis/,/sf/app/mmsharinguis,changeset,01f0bb65bcf1,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/app/musicplayer/,/sf/app/musicplayer,changeset,cd9e40a08dda,201037
 http://developer.symbian.org/oss/FCL/sf/app/organizer/,/sf/app/organizer,changeset,7ac58b2aae6f,201037
 http://developer.symbian.org/oss/FCL/sf/app/phone/,/sf/app/phone,changeset,2a5d4ab426d3,201035
@@ -33,11 +31,8 @@ http://developer.symbian.org/oss/FCL/sf/app/recents/,/sf/app/recents,changeset,a
 http://developer.symbian.org/oss/FCL/sf/app/rndtools/,/sf/app/rndtools,changeset,5db69f4c3d06,201033
 http://developer.symbian.org/oss/FCL/sf/app/search/,/sf/app/search,changeset,2ef216e92ef2,201037
 http://developer.symbian.org/oss/FCL/sf/app/settingsuis/,/sf/app/settingsuis,changeset,2fee987ebaff,201035
-http://developer.symbian.org/oss/FCL/sf/app/techview/,/sf/app/techview,changeset,5b5908ec640f,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/app/testtools/,/sf/app/testtools,changeset,753e33780645,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/app/videoplayer/,/sf/app/videoplayer,changeset,4707a0db12f6,201037
-http://developer.symbian.org/oss/FCL/sf/app/videotelephony/,/sf/app/videotelephony,changeset,f5f903566743,layers.sysdef.xml
-http://developer.symbian.org/oss/FCL/sf/app/webuis/,/sf/app/webuis,changeset,f427d27b98d8,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/mw/accesssec/,/sf/mw/accesssec,changeset,43351a4f2da3,201037
 http://developer.symbian.org/oss/FCL/sf/mw/appinstall/,/sf/mw/appinstall,changeset,b18a4bf55ddb,201035_01
 http://developer.symbian.org/oss/FCL/sf/mw/appsupport/,/sf/mw/appsupport,changeset,224b21efc2d4,201033_02
@@ -119,5 +114,4 @@ http://developer.symbian.org/oss/FCL/sf/os/textandloc/,/sf/os/textandloc,changes
 http://developer.symbian.org/oss/FCL/sf/os/usb/,/sf/os/usb,changeset,93c0009bd947,201036_01
 http://developer.symbian.org/oss/FCL/sf/os/wlan/,/sf/os/wlan,changeset,e038696bbbe5,201036
 http://developer.symbian.org/oss/FCL/sf/os/xmlsrv/,/sf/os/xmlsrv,changeset,172b09aa4eb6,201037_03
-http://developer.symbian.org/oss/FCL/sf/tools/buildplatforms/,/sf/tools/buildplatforms,changeset,70c2f7d722b4,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sftools/fbf/utilities/,/utilities,changeset,2b7e66ca13ba,NON-NOKIA
