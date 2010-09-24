@@ -15,14 +15,14 @@ http://developer.symbian.org/oss/FCL/sf/app/devicecontrol/,/sf/app/devicecontrol
 http://developer.symbian.org/oss/FCL/sf/app/files/,/sf/app/files,changeset,4167eb56f30d,201035
 http://developer.symbian.org/oss/FCL/sf/app/firsttimeuse/,/sf/app/firsttimeuse,changeset,0765988f65a1,201025_01
 http://developer.symbian.org/oss/FCL/sf/app/helps/,/sf/app/helps,changeset,9c0410731f74,201035_1
-http://developer.symbian.org/oss/FCL/sf/app/homescreen/,/sf/app/homescreen,changeset,3ac3aaebaee5,201037
+http://developer.symbian.org/oss/FCL/sf/app/homescreen/,/sf/app/homescreen,changeset,6364b99b9e27,bug-3711
 http://developer.symbian.org/oss/FCL/sf/app/internetradio/,/sf/app/internetradio,changeset,065198191975,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/app/jrt/,/sf/app/jrt,changeset,1f0034e370aa,v2.2.15_1
 http://developer.symbian.org/oss/FCL/sf/app/location/,/sf/app/location,changeset,793f76d9ab0c,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/app/messaging/,/sf/app/messaging,changeset,e8a69c93c830,201037_05
 http://developer.symbian.org/oss/FCL/sf/app/musicplayer/,/sf/app/musicplayer,changeset,cd9e40a08dda,201037
-http://developer.symbian.org/oss/FCL/sf/app/organizer/,/sf/app/organizer,changeset,7ac58b2aae6f,201037
-http://developer.symbian.org/oss/FCL/sf/app/phone/,/sf/app/phone,changeset,2a5d4ab426d3,201035
+http://developer.symbian.org/oss/FCL/sf/app/organizer/,/sf/app/organizer,changeset,6ff09f16627b,bug-3323
+http://developer.symbian.org/oss/FCL/sf/app/phone/,/sf/app/phone,changeset,949d9e5675bf,bug-3706
 http://developer.symbian.org/oss/FCL/sf/app/photos/,/sf/app/photos,changeset,ccee5c4b0de4,201037
 http://developer.symbian.org/oss/FCL/sf/app/podcatcher/,/sf/app/podcatcher,changeset,4b8ca3632bf6,NON-NOKIA
 http://developer.symbian.org/oss/FCL/sf/app/printing/,/sf/app/printing,changeset,a92d00fca574,layers.sysdef.xml
@@ -34,7 +34,7 @@ http://developer.symbian.org/oss/FCL/sf/app/settingsuis/,/sf/app/settingsuis,cha
 http://developer.symbian.org/oss/FCL/sf/app/testtools/,/sf/app/testtools,changeset,753e33780645,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/app/videoplayer/,/sf/app/videoplayer,changeset,4707a0db12f6,201037
 http://developer.symbian.org/oss/FCL/sf/mw/accesssec/,/sf/mw/accesssec,changeset,43351a4f2da3,201037
-http://developer.symbian.org/oss/FCL/sf/mw/appinstall/,/sf/mw/appinstall,changeset,b18a4bf55ddb,201035_01
+http://developer.symbian.org/oss/FCL/sf/mw/appinstall/,/sf/mw/appinstall,changeset,4947cba933ad,bug2548
 http://developer.symbian.org/oss/FCL/sf/mw/appsupport/,/sf/mw/appsupport,changeset,224b21efc2d4,201033_02
 http://developer.symbian.org/oss/FCL/sf/mw/browser/,/sf/mw/browser,changeset,d26902edeef5,201037_03
 http://developer.symbian.org/oss/FCL/sf/mw/btservices/,/sf/mw/btservices,changeset,5ebadcda06cb,201035_7
