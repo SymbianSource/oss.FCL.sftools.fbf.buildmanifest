@@ -3,7 +3,7 @@ http://developer.symbian.org/oss/FCL/sf/adapt/beagleboard/,/sf/adaptation/beagle
 http://developer.symbian.org/oss/FCL/sf/adapt/codecs.aricent/,/sf/adaptation/codecs.aricent,changeset,bb31fbe78861,NON-NOKIA
 http://developer.symbian.org/oss/FCL/sf/adapt/openmaxil.nokia/,/sf/adaptation/openmaxil.nokia,changeset,58be5850fb6c,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/adapt/qemu/,/sf/adaptation/qemu,changeset,78b83e1454a6,NON-NOKIA
-http://developer.symbian.org/oss/FCL/sf/adaptation/stubs/,/sf/adaptation/stubs,changeset,46385f45ba4e,201036
+http://developer.symbian.org/oss/FCL/sf/adapt/stubs/,/sf/adaptation/stubs,changeset,46385f45ba4e,201036
 http://developer.symbian.org/oss/FCL/sf/app/browserui/,/sf/app/browserui,changeset,6aeb7a756187,201037_03
 http://developer.symbian.org/oss/FCL/sf/app/calendarwidget/,/sf/app/calendarwidget,changeset,a4a7966c042b,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/app/camera/,/sf/app/camera,changeset,fc3ff57d09ad,201037_1
