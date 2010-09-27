@@ -35,7 +35,7 @@ http://developer.symbian.org/oss/FCL/sf/app/testtools/,/sf/app/testtools,changes
 http://developer.symbian.org/oss/FCL/sf/app/videoplayer/,/sf/app/videoplayer,changeset,4707a0db12f6,201037
 http://developer.symbian.org/oss/FCL/sf/mw/accesssec/,/sf/mw/accesssec,changeset,43351a4f2da3,201037
 http://developer.symbian.org/oss/FCL/sf/mw/appinstall/,/sf/mw/appinstall,changeset,4947cba933ad,bug2548
-http://developer.symbian.org/oss/FCL/sf/mw/appsupport/,/sf/mw/appsupport,changeset,224b21efc2d4,201033_02
+http://developer.symbian.org/oss/FCL/sf/mw/appsupport/,/sf/mw/appsupport,changeset,6966cff55eb6,201037_01_case_fixed
 http://developer.symbian.org/oss/FCL/sf/mw/browser/,/sf/mw/browser,changeset,d26902edeef5,201037_03
 http://developer.symbian.org/oss/FCL/sf/mw/btservices/,/sf/mw/btservices,changeset,5ebadcda06cb,201035_7
 http://developer.symbian.org/oss/FCL/sf/mw/camerasrv/,/sf/mw/camerasrv,changeset,e80a5e3e883f,201037_1
@@ -51,7 +51,7 @@ http://developer.symbian.org/oss/FCL/sf/mw/hgwidgets/,/sf/mw/hgwidgets,changeset
 http://developer.symbian.org/oss/FCL/sf/mw/homescreensrv/,/sf/mw/homescreensrv,changeset,50e220be30d1,201037
 http://developer.symbian.org/oss/FCL/sf/mw/homescreensrvlegacy/,/sf/mw/homescreensrvlegacy,changeset,94cbbccbaf62,201036
 http://developer.symbian.org/oss/FCL/sf/mw/imghandling/,/sf/mw/imghandling,changeset,41b64ea195fa,bug-3676
-http://developer.symbian.org/oss/FCL/sf/mw/imsrv/,/sf/mw/imsrv,changeset,085f765766a0,201021_02
+http://developer.symbian.org/oss/FCL/sf/mw/imsrv/,/sf/mw/imsrv,changeset,860cd8a5168c,201037_04
 http://developer.symbian.org/oss/FCL/sf/mw/inputmethods/,/sf/mw/inputmethods,changeset,b3eaa440ab06,201035
 http://developer.symbian.org/oss/FCL/sf/mw/ipappprotocols/,/sf/mw/ipappprotocols,changeset,69df6ed78a6a,201033
 http://developer.symbian.org/oss/FCL/sf/mw/ipappsrv/,/sf/mw/ipappsrv,changeset,c4cbfcae3f52,201035
