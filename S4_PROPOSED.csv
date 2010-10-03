@@ -100,7 +100,7 @@ http://developer.symbian.org/oss/FCL/sf/os/devicesrv/,/sf/os/devicesrv,changeset
 http://developer.symbian.org/oss/FCL/sf/os/fshell/,/sf/os/fshell,changeset,4349d4d62266,NON_NOKIA
 http://developer.symbian.org/oss/FCL/sf/os/graphics/,/sf/os/graphics,changeset,3c2818e88c00,sfopenvg bug-3283 bug-3343 bug-3344
 http://developer.symbian.org/oss/FCL/sf/os/imagingext/,/sf/os/imagingext,changeset,33125ea6abcb,A imagingext_tip_pbc.001
-http://developer.symbian.org/oss/FCL/sf/os/kernelhwsrv/,/sf/os/kernelhwsrv,changeset,2b433474f2ba,G kernelhwsrv_tip_pbc.023
+http://developer.symbian.org/oss/FCL/sf/os/kernelhwsrv/,/sf/os/kernelhwsrv,changeset,dff302e3bd76,bug-2149 bug-2742 rom.flm
 http://developer.symbian.org/oss/FCL/sf/os/lbs/,/sf/os/lbs,changeset,a2244af7b395,201033_06
 http://developer.symbian.org/oss/FCL/sf/os/mm/,/sf/os/mm,changeset,9ea4d0cbd540,R mm_tip_pbc.031
 http://developer.symbian.org/oss/FCL/sf/os/mmimaging/,/sf/os/mmimaging,changeset,e71193196b47,layers.sysdef.xml
