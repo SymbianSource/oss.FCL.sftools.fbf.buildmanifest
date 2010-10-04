@@ -52,7 +52,7 @@ http://developer.symbian.org/oss/FCL/sf/mw/helix/,/sf/mw/helix,changeset,20d2741
 http://developer.symbian.org/oss/FCL/sf/mw/hgwidgets/,/sf/mw/hgwidgets,changeset,a10844a9914d,R hgwidgets_tip_pbc.013
 http://developer.symbian.org/oss/FCL/sf/mw/homescreensrv/,/sf/mw/homescreensrv,changeset,d1dadafc5584,A homescreensrv_tip_pbc.021
 http://developer.symbian.org/oss/FCL/sf/mw/homescreensrvlegacy/,/sf/mw/homescreensrvlegacy,changeset,94cbbccbaf62,G homescreensrvlegacy_tip_pbc.001
-http://developer.symbian.org/oss/FCL/sf/mw/imghandling/,/sf/mw/imghandling,changeset,48dd0f169f0d,A imghandling_tip_pbc.017
+http://developer.symbian.org/oss/FCL/sf/mw/imghandling/,/sf/mw/imghandling,changeset,41b64ea195fa,HOLD BACK FROM A imghandling_tip_pbc.017
 http://developer.symbian.org/oss/FCL/sf/mw/imsrv/,/sf/mw/imsrv,changeset,860cd8a5168c,G imsrv_tip_pbc.005
 http://developer.symbian.org/oss/FCL/sf/mw/inputmethods/,/sf/mw/inputmethods,changeset,aff0aebb458d,G inputmethods_tip_pbc.018
 http://developer.symbian.org/oss/FCL/sf/mw/ipappprotocols/,/sf/mw/ipappprotocols,changeset,a003f0e60a07,G ipappprotocols_tip_pbc.018
@@ -100,7 +100,7 @@ http://developer.symbian.org/oss/FCL/sf/os/deviceplatformrelease/,/sf/os/devicep
 http://developer.symbian.org/oss/FCL/sf/os/devicesrv/,/sf/os/devicesrv,changeset,d38941471f1c,R devicesrv_tip_pbc.046
 http://developer.symbian.org/oss/FCL/sf/os/fshell/,/sf/os/fshell,changeset,4349d4d62266,NON_NOKIA
 http://developer.symbian.org/oss/FCL/sf/os/graphics/,/sf/os/graphics,changeset,3c2818e88c00,sfopenvg bug-3283 bug-3343 bug-3344
-http://developer.symbian.org/oss/FCL/sf/os/imagingext/,/sf/os/imagingext,changeset,33125ea6abcb,A imagingext_tip_pbc.001
+http://developer.symbian.org/oss/FCL/sf/os/imagingext/,/sf/os/imagingext,changeset,d8e463b04c5c,HOLD BACK FROM A imagingext_tip_pbc.001
 http://developer.symbian.org/oss/FCL/sf/os/kernelhwsrv/,/sf/os/kernelhwsrv,changeset,664ff9a1a8fa,bug-2149 bug-2742 rom.flm
 http://developer.symbian.org/oss/FCL/sf/os/lbs/,/sf/os/lbs,changeset,a2244af7b395,201033_06
 http://developer.symbian.org/oss/FCL/sf/os/mm/,/sf/os/mm,changeset,89a17f5534e9,HOLD BACK FROM R mm_tip_pbc.031
