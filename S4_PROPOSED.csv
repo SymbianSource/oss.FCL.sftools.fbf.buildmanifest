@@ -18,7 +18,7 @@ http://developer.symbian.org/oss/FCL/sf/app/firsttimeuse/,/sf/app/firsttimeuse,c
 http://developer.symbian.org/oss/FCL/sf/app/helps/,/sf/app/helps,changeset,024e23fdab18,R helps_tip_pbc.020
 http://developer.symbian.org/oss/FCL/sf/app/homescreen/,/sf/app/homescreen,changeset,32e56106abf2,A homescreen_tip_pbc.024
 http://developer.symbian.org/oss/FCL/sf/app/internetradio/,/sf/app/internetradio,changeset,065198191975,layers.sysdef.xml
-http://developer.symbian.org/oss/FCL/sf/app/jrt/,/sf/app/jrt,changeset,1f0034e370aa,R jrt_tip_pbc.018
+http://developer.symbian.org/oss/FCL/sf/app/jrt/,/sf/app/jrt,changeset,71ad690e91f5,R jrt_tip_pbc.019
 http://developer.symbian.org/oss/FCL/sf/app/location/,/sf/app/location,changeset,793f76d9ab0c,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/app/messaging/,/sf/app/messaging,changeset,e8a69c93c830,R messaging_tip_pbc.021
 http://developer.symbian.org/oss/FCL/sf/app/musicplayer/,/sf/app/musicplayer,changeset,cd9e40a08dda,G musicplayer_tip_pbc.017
@@ -41,7 +41,7 @@ http://developer.symbian.org/oss/FCL/sf/mw/browser/,/sf/mw/browser,changeset,d26
 http://developer.symbian.org/oss/FCL/sf/mw/btservices/,/sf/mw/btservices,changeset,001a94c71129,R btservices_tip_pbc.019
 http://developer.symbian.org/oss/FCL/sf/mw/camerasrv/,/sf/mw/camerasrv,changeset,e80a5e3e883f,G camerasrv_tip_pbc.009
 http://developer.symbian.org/oss/FCL/sf/mw/classicui/,/sf/mw/classicui,changeset,5f6e7f84c9d1,R classicui_tip_pbc.026
-http://developer.symbian.org/oss/FCL/sf/mw/dlnasrv/,/sf/mw/dlnasrv,changeset,6ac064bb53eb,G dlnasrv_tip_pbc.018
+http://developer.symbian.org/oss/FCL/sf/mw/dlnasrv/,/sf/mw/dlnasrv,changeset,eab116a48b80,G dlnasrv_tip_pbc.019
 http://developer.symbian.org/oss/FCL/sf/mw/drm/,/sf/mw/drm,changeset,a117e284a2c6,R drm_tip_pbc.019
 http://developer.symbian.org/oss/FCL/sf/mw/gsprofilesrv/,/sf/mw/gsprofilesrv,changeset,531951b2e59a,G gsprofilesrv_tip_pbc.020
 http://developer.symbian.org/oss/FCL/sf/mw/gstreamer/,/sf/mw/gstreamer,changeset,1b8125c02661,G gstreamer_tip_pbc.015
@@ -64,7 +64,7 @@ http://developer.symbian.org/oss/FCL/sf/mw/messagingmw/,/sf/mw/messagingmw,chang
 http://developer.symbian.org/oss/FCL/sf/mw/metadatasrv/,/sf/mw/metadatasrv,changeset,e709abad6ac8,G metadatasrv_tip_pbc.017
 http://developer.symbian.org/oss/FCL/sf/mw/mmappfw/,/sf/mw/mmappfw,changeset,b276843a15ba,G mmappfw_tip_pbc.017
 http://developer.symbian.org/oss/FCL/sf/mw/mmmw/,/sf/mw/mmmw,changeset,eabc8c503852,A mmmw_tip_pbc.005
-http://developer.symbian.org/oss/FCL/sf/mw/netprotocols/,/sf/mw/netprotocols,changeset,cfbc3a3bd32b,A netprotocols_tip_pbc.019
+http://developer.symbian.org/oss/FCL/sf/mw/netprotocols/,/sf/mw/netprotocols,changeset,b91bcc4b38e4,A netprotocols_tip_pbc.020
 http://developer.symbian.org/oss/FCL/sf/mw/phonesrv/,/sf/mw/phonesrv,changeset,78df25012fda,R phonesrv_tip_pbc.037
 http://developer.symbian.org/oss/FCL/sf/mw/platformthemes/,/sf/mw/platformthemes,changeset,a27d41a0ee62,G platformthemes_tip_pbc.001
 http://developer.symbian.org/oss/FCL/sf/mw/platformtools/,/sf/mw/platformtools,changeset,554c1cadb5a3,G platformtools_tip_pbc.016
@@ -100,7 +100,7 @@ http://developer.symbian.org/oss/FCL/sf/os/devicesrv/,/sf/os/devicesrv,changeset
 http://developer.symbian.org/oss/FCL/sf/os/fshell/,/sf/os/fshell,changeset,4349d4d62266,NON_NOKIA
 http://developer.symbian.org/oss/FCL/sf/os/graphics/,/sf/os/graphics,changeset,3c2818e88c00,sfopenvg bug-3283 bug-3343 bug-3344
 http://developer.symbian.org/oss/FCL/sf/os/imagingext/,/sf/os/imagingext,changeset,33125ea6abcb,A imagingext_tip_pbc.001
-http://developer.symbian.org/oss/FCL/sf/os/kernelhwsrv/,/sf/os/kernelhwsrv,changeset,dff302e3bd76,bug-2149 bug-2742 rom.flm
+http://developer.symbian.org/oss/FCL/sf/os/kernelhwsrv/,/sf/os/kernelhwsrv,changeset,664ff9a1a8fa,bug-2149 bug-2742 rom.flm
 http://developer.symbian.org/oss/FCL/sf/os/lbs/,/sf/os/lbs,changeset,a2244af7b395,201033_06
 http://developer.symbian.org/oss/FCL/sf/os/mm/,/sf/os/mm,changeset,89a17f5534e9,HOLD BACK FROM R mm_tip_pbc.031
 http://developer.symbian.org/oss/FCL/sf/os/mmimaging/,/sf/os/mmimaging,changeset,e71193196b47,layers.sysdef.xml
