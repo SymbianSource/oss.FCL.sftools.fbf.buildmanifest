@@ -102,7 +102,7 @@ http://developer.symbian.org/oss/FCL/sf/os/graphics/,/sf/os/graphics,changeset,3
 http://developer.symbian.org/oss/FCL/sf/os/imagingext/,/sf/os/imagingext,changeset,33125ea6abcb,A imagingext_tip_pbc.001
 http://developer.symbian.org/oss/FCL/sf/os/kernelhwsrv/,/sf/os/kernelhwsrv,changeset,dff302e3bd76,bug-2149 bug-2742 rom.flm
 http://developer.symbian.org/oss/FCL/sf/os/lbs/,/sf/os/lbs,changeset,a2244af7b395,201033_06
-http://developer.symbian.org/oss/FCL/sf/os/mm/,/sf/os/mm,changeset,9ea4d0cbd540,R mm_tip_pbc.031
+http://developer.symbian.org/oss/FCL/sf/os/mm/,/sf/os/mm,changeset,89a17f5534e9,HOLD BACK FROM R mm_tip_pbc.031
 http://developer.symbian.org/oss/FCL/sf/os/mmimaging/,/sf/os/mmimaging,changeset,e71193196b47,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/os/networkingsrv/,/sf/os/networkingsrv,changeset,1697cc2ba93d,R networkingsrv_tip_pbc.024
 http://developer.symbian.org/oss/FCL/sf/os/openmaxil/,/sf/os/openmaxil,changeset,c7e5cc0a08b3,layers.sysdef.xml
