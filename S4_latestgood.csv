@@ -1,6 +1,6 @@
 source,dst,type,pattern,sysdef
 http://developer.symbian.org/oss/FCL/sftools/fbf/utilities/,/utilities,changeset,2b7e66ca13ba,NON-NOKIA
-http://developer.symbian.org/oss/FCL/sf/adapt/beagleboard/,/sf/adaptation/beagleboard,changeset,ed23a53a5ee2,NON-NOKIA
+http://developer.symbian.org/oss/FCL/sf/adapt/beagleboard/,/sf/adaptation/beagleboard,changeset,86e1b70f1f94,NON-NOKIA
 http://developer.symbian.org/oss/MCL/sf/adapt/codecs.aricent/,/sf/adaptation/codecs.aricent,changeset,bb31fbe78861,NON-NOKIA
 http://developer.symbian.org/oss/FCL/sf/adapt/naviengine.nec/,/sf/adaptation/naviengine.nec,changeset,5de814552237,
 http://developer.symbian.org/oss/FCL/sf/adapt/openmaxil.nokia/,/sf/adaptation/openmaxil.nokia,changeset,58be5850fb6c,layers.sysdef.xml
