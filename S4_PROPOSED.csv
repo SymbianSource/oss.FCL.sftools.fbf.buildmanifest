@@ -108,7 +108,7 @@ http://developer.symbian.org/oss/FCL/sf/os/mmimaging/,/sf/os/mmimaging,changeset
 http://developer.symbian.org/oss/FCL/sf/os/networkingsrv/,/sf/os/networkingsrv,changeset,1697cc2ba93d,R networkingsrv_tip_pbc.024
 http://developer.symbian.org/oss/FCL/sf/os/openmaxil/,/sf/os/openmaxil,changeset,c7e5cc0a08b3,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/os/osrndtools/,/sf/os/osrndtools,changeset,a151135b0cf9,A osrndtools_tip_pbc.025
-http://developer.symbian.org/oss/FCL/sf/os/ossrv/,/sf/os/ossrv,changeset,a1e347446159,A ossrv_tip_pbc.020
+http://developer.symbian.org/oss/FCL/sf/os/ossrv/,/sf/os/ossrv,changeset,ff3fc7722556,HOLD BACK FROM A ossrv_tip_pbc.020
 http://developer.symbian.org/oss/FCL/sf/os/ostesttools/,/sf/os/ostesttools,changeset,6edeef394eb7,layers.sysdef.xml
 http://developer.symbian.org/oss/FCL/sf/os/persistentdata/,/sf/os/persistentdata,changeset,7d4490026038,G persistentdata_tip_pbc.019
 http://developer.symbian.org/oss/FCL/sf/os/security/,/sf/os/security,changeset,0e6c5a9328b5,R security_tip_pbc.005
