@@ -3,7 +3,7 @@ http://developer.symbian.org/oss/FCL/sf/adapt/beagleboard/,/sf/adaptation/beagle
 http://developer.symbian.org/oss/FCL/sf/adapt/codecs.aricent/,/sf/adaptation/codecs.aricent,changeset,bb31fbe78861,A codecs.aricent_tip_pbc.002
 http://developer.symbian.org/oss/FCL/sf/adapt/naviengine.nec/,/sf/adaptation/naviengine.nec,changeset,5937e08d5244,bug-3803
 http://developer.symbian.org/oss/FCL/sf/adapt/openmaxil.nokia/,/sf/adaptation/openmaxil.nokia,changeset,e0d606d6e3b1,R openmaxil.nokia_tip_pbc.001
-http://developer.symbian.org/oss/FCL/sf/adapt/qemu/,/sf/adaptation/qemu,changeset,78b83e1454a6,A qemu_tip_pbc.002
+http://developer.symbian.org/oss/FCL/sf/adapt/qemu/,/sf/adaptation/qemu,changeset,931f2bbaabf7, bug-3645
 http://developer.symbian.org/oss/FCL/sf/adapt/stubs/,/sf/adaptation/stubs,changeset,55e13740998c,A stubs_tip_pbc.026
 http://developer.symbian.org/oss/FCL/sf/app/browserui/,/sf/app/browserui,changeset,6aeb7a756187,A browserui_tip_pbc.017
 http://developer.symbian.org/oss/FCL/sf/app/calendarwidget/,/sf/app/calendarwidget,changeset,6ea82847f1b7,A calendarwidget_tip_pbc.002
@@ -99,13 +99,13 @@ http://developer.symbian.org/oss/FCL/sf/os/commsfw/,/sf/os/commsfw,changeset,dd4
 http://developer.symbian.org/oss/FCL/sf/os/deviceplatformrelease/,/sf/os/deviceplatformrelease,changeset,bf9db79ce352,config
 http://developer.symbian.org/oss/FCL/sf/os/devicesrv/,/sf/os/devicesrv,changeset,d38941471f1c,R devicesrv_tip_pbc.046
 http://developer.symbian.org/oss/FCL/sf/os/fshell/,/sf/os/fshell,changeset,ed15378514e0,NON_NOKIA
-http://developer.symbian.org/oss/FCL/sf/os/graphics/,/sf/os/graphics,changeset,3c2818e88c00,sfopenvg bug-3283 bug-3343 bug-3344
+http://developer.symbian.org/oss/FCL/sf/os/graphics/,/sf/os/graphics,changeset,9f2f0d4d53f3,sfopenvg bug-3283 bug-3343 bug-3344 bug-3800 bug-3799 bug-3802
 http://developer.symbian.org/oss/FCL/sf/os/imagingext/,/sf/os/imagingext,changeset,d8e463b04c5c,HOLD BACK FROM A imagingext_tip_pbc.001
 http://developer.symbian.org/oss/FCL/sf/os/kernelhwsrv/,/sf/os/kernelhwsrv,changeset,e76171403744,bug-2149 bug-2742 bug-3689 rom.flm
 http://developer.symbian.org/oss/FCL/sf/os/lbs/,/sf/os/lbs,changeset,a72da175c1b9,rev 201039
 http://developer.symbian.org/oss/FCL/sf/os/mm/,/sf/os/mm,changeset,89a17f5534e9,HOLD BACK FROM R mm_tip_pbc.031
 http://developer.symbian.org/oss/FCL/sf/os/mmimaging/,/sf/os/mmimaging,changeset,4e4fc2e0e9c5,G mmimaging_tip_pbc.001
-http://developer.symbian.org/oss/FCL/sf/os/networkingsrv/,/sf/os/networkingsrv,changeset,1697cc2ba93d,R networkingsrv_tip_pbc.024
+http://developer.symbian.org/oss/FCL/sf/os/networkingsrv/,/sf/os/networkingsrv,changeset,3a3b1994e013, bug-3801
 http://developer.symbian.org/oss/FCL/sf/os/openmaxil/,/sf/os/openmaxil,changeset,6add9366d894,G openmaxil_tip_pbc.002
 http://developer.symbian.org/oss/FCL/sf/os/osrndtools/,/sf/os/osrndtools,changeset,a151135b0cf9,A osrndtools_tip_pbc.025
 http://developer.symbian.org/oss/FCL/sf/os/ossrv/,/sf/os/ossrv,changeset,ff3fc7722556,HOLD BACK FROM A ossrv_tip_pbc.020
