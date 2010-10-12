@@ -1,7 +1,7 @@
 source,dst,type,pattern,sysdef
-http://developer.symbian.org/oss/FCL/sf/adapt/beagleboard/,/sf/adaptation/beagleboard,changeset,86e1b70f1f94,R beagleboard_tip_pbc.002
+http://developer.symbian.org/oss/FCL/sf/adapt/beagleboard/,/sf/adaptation/beagleboard,changeset,cf5d4fe2473f,bug-3645
 http://developer.symbian.org/oss/FCL/sf/adapt/codecs.aricent/,/sf/adaptation/codecs.aricent,changeset,bb31fbe78861,A codecs.aricent_tip_pbc.002
-http://developer.symbian.org/oss/FCL/sf/adapt/naviengine.nec/,/sf/adaptation/naviengine.nec,changeset,5937e08d5244,bug-3803
+http://developer.symbian.org/oss/FCL/sf/adapt/naviengine.nec/,/sf/adaptation/naviengine.nec,changeset,7784dbee2165,bug-3803 bug-3645 keymap fix
 http://developer.symbian.org/oss/FCL/sf/adapt/openmaxil.nokia/,/sf/adaptation/openmaxil.nokia,changeset,e0d606d6e3b1,R openmaxil.nokia_tip_pbc.001
 http://developer.symbian.org/oss/FCL/sf/adapt/qemu/,/sf/adaptation/qemu,changeset,931f2bbaabf7, bug-3645
 http://developer.symbian.org/oss/FCL/sf/adapt/stubs/,/sf/adaptation/stubs,changeset,55e13740998c,A stubs_tip_pbc.026
