@@ -96,10 +96,10 @@ http://developer.symbian.org/oss/FCL/sf/os/bt/,/sf/os/bt,changeset,22de2e391156,
 http://developer.symbian.org/oss/FCL/sf/os/buildtools/,/sf/os/buildtools,changeset,f3b4a10db92c,A buildtools_tip_pbc.003
 http://developer.symbian.org/oss/FCL/sf/os/cellularsrv/,/sf/os/cellularsrv,changeset,70d75957b98f,G cellularsrv_tip_pbc.021
 http://developer.symbian.org/oss/FCL/sf/os/commsfw/,/sf/os/commsfw,changeset,dd4909eb54cd,A commsfw_tip_pbc.018
-http://developer.symbian.org/oss/FCL/sf/os/deviceplatformrelease/,/sf/os/deviceplatformrelease,changeset,bf9db79ce352,config
+http://developer.symbian.org/oss/FCL/sf/os/deviceplatformrelease/,/sf/os/deviceplatformrelease,changeset,52f8c6695478,config
 http://developer.symbian.org/oss/FCL/sf/os/devicesrv/,/sf/os/devicesrv,changeset,d38941471f1c,R devicesrv_tip_pbc.046
 http://developer.symbian.org/oss/FCL/sf/os/fshell/,/sf/os/fshell,changeset,ed15378514e0,NON_NOKIA
-http://developer.symbian.org/oss/FCL/sf/os/graphics/,/sf/os/graphics,changeset,9f2f0d4d53f3,sfopenvg bug-3283 bug-3343 bug-3344 bug-3800 bug-3799 bug-3802
+http://developer.symbian.org/oss/FCL/sf/os/graphics/,/sf/os/graphics,changeset,60d1ea0a020a,sfopenvg bug-3283 bug-3343 bug-3344 bug-3800 bug-3799 bug-3802
 http://developer.symbian.org/oss/FCL/sf/os/imagingext/,/sf/os/imagingext,changeset,d8e463b04c5c,HOLD BACK FROM A imagingext_tip_pbc.001
 http://developer.symbian.org/oss/FCL/sf/os/kernelhwsrv/,/sf/os/kernelhwsrv,changeset,e76171403744,bug-2149 bug-2742 bug-3689 rom.flm
 http://developer.symbian.org/oss/FCL/sf/os/lbs/,/sf/os/lbs,changeset,a72da175c1b9,rev 201039
