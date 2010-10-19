@@ -41,12 +41,12 @@ http://developer.symbian.org/oss/FCL/sf/mw/appsupport/,/sf/mw/appsupport,changes
 http://developer.symbian.org/oss/FCL/sf/mw/browser/,/sf/mw/browser,changeset,1d6c4b7a8fbd,A browser_tip_pbc.018
 http://developer.symbian.org/oss/FCL/sf/mw/btservices/,/sf/mw/btservices,changeset,001a94c71129,R btservices_tip_pbc.019
 http://developer.symbian.org/oss/FCL/sf/mw/camerasrv/,/sf/mw/camerasrv,changeset,605672cc2a86,R camerasrv_tip_pbc.011
-http://developer.symbian.org/oss/FCL/sf/mw/classicui/,/sf/mw/classicui,changeset,5f6e7f84c9d1,R classicui_tip_pbc.026
+http://developer.symbian.org/oss/FCL/sf/mw/classicui/,/sf/mw/classicui,changeset,8cba18227181,201039_2
 http://developer.symbian.org/oss/FCL/sf/mw/dlnasrv/,/sf/mw/dlnasrv,changeset,eab116a48b80,G dlnasrv_tip_pbc.019
 http://developer.symbian.org/oss/FCL/sf/mw/drm/,/sf/mw/drm,changeset,a117e284a2c6,R drm_tip_pbc.019
 http://developer.symbian.org/oss/FCL/sf/mw/gsprofilesrv/,/sf/mw/gsprofilesrv,changeset,33e86ecbfdb4,newer G gsprofilesrv_tip_pbc.020
 http://developer.symbian.org/oss/FCL/sf/mw/gstreamer/,/sf/mw/gstreamer,changeset,1b8125c02661,G gstreamer_tip_pbc.015
-http://developer.symbian.org/oss/FCL/sf/mw/hapticsservices/,/sf/mw/hapticsservices,changeset,f9a00adead4a,G hapticsservices_tip_pbc.018
+http://developer.symbian.org/oss/FCL/sf/mw/hapticsservices/,/sf/mw/hapticsservices,changeset,6da0c4c8b840,bug-3311
 http://developer.symbian.org/oss/FCL/sf/mw/hb/,/sf/mw/hb,changeset,7516d6d86cf5,A hb_tip_pbc.025
 http://developer.symbian.org/oss/FCL/sf/mw/helix/,/sf/mw/helix,changeset,20d2741ccdad,G helix_tip_pbc.017
 http://developer.symbian.org/oss/FCL/sf/mw/hgwidgets/,/sf/mw/hgwidgets,changeset,a60f8b6b1d32,R hgwidgets_tip_pbc.015
@@ -110,7 +110,7 @@ http://developer.symbian.org/oss/FCL/sf/os/openmaxil/,/sf/os/openmaxil,changeset
 http://developer.symbian.org/oss/FCL/sf/os/osrndtools/,/sf/os/osrndtools,changeset,a151135b0cf9,A osrndtools_tip_pbc.025
 http://developer.symbian.org/oss/FCL/sf/os/ossrv/,/sf/os/ossrv,changeset,ff3fc7722556,HOLD BACK FROM A ossrv_tip_pbc.020
 http://developer.symbian.org/oss/FCL/sf/os/ostesttools/,/sf/os/ostesttools,changeset,b8d1455fddc0,A ostesttools_tip_pbc.001
-http://developer.symbian.org/oss/FCL/sf/os/persistentdata/,/sf/os/persistentdata,changeset,7d4490026038,G persistentdata_tip_pbc.019
+http://developer.symbian.org/oss/FCL/sf/os/persistentdata/,/sf/os/persistentdata,changeset,a0e1d366428c,bug-3854
 http://developer.symbian.org/oss/FCL/sf/os/security/,/sf/os/security,changeset,deec7e509f66,R security_tip_pbc.007
 http://developer.symbian.org/oss/FCL/sf/os/textandloc/,/sf/os/textandloc,changeset,18fedaf0292a,bug-1543
 http://developer.symbian.org/oss/FCL/sf/os/usb/,/sf/os/usb,changeset,93c0009bd947,R usb_tip_pbc.019
